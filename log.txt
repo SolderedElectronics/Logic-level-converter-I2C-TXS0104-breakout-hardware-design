@@ -58,3 +58,41 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout to Raspberry-Pi-breadboard-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter I2C TXS0104 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main d2a5747] Updating open source files.
+ 1 file changed, 59 insertions(+)
+https://github.com/SolderedElectronics/Logic-level-converter-I2C-TXS0104-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Thermocouple sensor AD8495 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+Raspberry-Pi-breadboard-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout to Raspberry-Pi-breadboard-breakout-hardware-design
+https://github.com/SolderedElectronics/Logic-level-converter-I2C-TXS0104-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Thermocouple sensor AD8495 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+Raspberry-Pi-breadboard-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout to Raspberry-Pi-breadboard-breakout-hardware-design
+https://github.com/SolderedElectronics/Logic-level-converter-I2C-TXS0104-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Thermocouple sensor AD8495 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+Raspberry-Pi-breadboard-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi breadboard breakout to Raspberry-Pi-breadboard-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter I2C TXS0104 breakout/.git/
